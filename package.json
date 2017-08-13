@@ -1,0 +1,21 @@
+{
+  "name": "breakout",
+  "version": "1.0.0",
+  "description": "Following this tutorial: https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files '*.css|*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsonberry/breakout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsonberry/breakout/issues"
+  },
+  "homepage": "https://github.com/jsonberry/breakout#readme"
+}

@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/jsonberry/breakout/issues"
   },
-  "homepage": "https://github.com/jsonberry/breakout#readme"
+  "homepage": "https://github.com/jsonberry/breakout#readme",
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "lodash": "^4.17.4"
+  }
 }
